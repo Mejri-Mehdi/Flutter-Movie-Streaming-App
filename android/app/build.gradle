@@ -1,0 +1,59 @@
+plugins {
+    id "com.android.application"
+    id "kotlin-android"
+    id "dev.flutter.flutter-gradle-plugin"
+}
+
+android {
+    namespace = "com.example.authentification"
+    compileSdkVersion 34
+    ndkVersion flutter.ndkVersion
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
+    }
+
+    kotlinOptions {
+        jvmTarget = "17"
+    }
+
+    defaultConfig {
+        applicationId = "com.example.authentification"  // Ensure this matches Firebase setup
+        minSdkVersion 23
+        targetSdkVersion 34
+        versionCode 1
+        versionName "1.0"
+    }
+
+    buildTypes {
+        release {
+            signingConfig signingConfigs.debug
+        }
+    }
+}
+
+dependencies {
+    // Firebase Authentication
+    implementation 'com.google.firebase:firebase-auth:21.0.1'
+
+    // Firebase Analytics
+    implementation 'com.google.firebase:firebase-analytics:21.0.0'
+
+    // Firebase Firestore
+    implementation 'com.google.firebase:firebase-firestore:24.0.0'
+
+    // Firebase Realtime Database (if needed)
+    implementation 'com.google.firebase:firebase-database:20.0.0'
+
+    // Firebase Storage (if needed)
+    implementation 'com.google.firebase:firebase-storage:20.0.0'
+
+    // Firebase Cloud Messaging (if needed)
+    implementation 'com.google.firebase:firebase-messaging:23.1.0'
+
+    // Add other Firebase dependencies as needed
+}
+
+// Apply the plugin at the end of the file
+apply plugin: 'com.google.gms.google-services'  // Apply the Google services plugin

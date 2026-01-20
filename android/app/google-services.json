@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410462435922",
+    "project_id": "authentification-37e63",
+    "storage_bucket": "authentification-37e63.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410462435922:android:f7f77b05a5e39bd5477d8b",
+        "android_client_info": {
+          "package_name": "com.example.authentification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA08iicyQSwDh81I6TXXqQHIBFkUo-EXK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
