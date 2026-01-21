@@ -41,6 +41,10 @@ All user activity is synced with Firebase for persistence.
 
 📱 Screenshots
 
+
+
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/857478e5-4ee3-477e-b839-791686d6e23e" alt="Screenshot 1" width="400"/>
   <img src="https://github.com/user-attachments/assets/bd275800-ef3c-402c-9321-8067368e6c96" alt="Screenshot 2" width="400"/>
