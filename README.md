@@ -41,15 +41,14 @@ All user activity is synced with Firebase for persistence.
 
 📱 Screenshots
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/857478e5-4ee3-477e-b839-791686d6e23e" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/user-attachments/assets/bd275800-ef3c-402c-9321-8067368e6c96" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/0f09e1b9-a0d8-41ec-b4f5-a57b0203e5f2" alt="Screenshot 3" width="200"/>
+</p>
 
-
-
-
-<p align="center"> 
-  <img src="https://github.com/user-attachments/assets/857478e5-4ee3-477e-b839-791686d6e23e" alt="Screenshot 1" width="400"/> 
-  <img src="https://github.com/user-attachments/assets/bd275800-ef3c-402c-9321-8067368e6c96" alt="Screenshot 2" width="400"/> 
-  <img src="https://github.com/user-attachments/assets/0f09e1b9-a0d8-41ec-b4f5-a57b0203e5f2" alt="Screenshot 3" width="400"/> 
-  <img src="https://github.com/user-attachments/assets/25bda17a-8538-46e6-80ea-55b3567a9c68" alt="Screenshot 4" width="400"/> 
-  <img src="https://github.com/user-attachments/assets/1b3ac00d-299a-4897-8de7-cad5e072beb1" alt="Screenshot 5" width="400"/> 
-  <img src="https://github.com/user-attachments/assets/9a104390-12d1-48bd-8d00-dc887395999a" alt="Screenshot 7" width="400"/> 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/25bda17a-8538-46e6-80ea-55b3567a9c68" alt="Screenshot 4" width="200"/>
+  <img src="https://github.com/user-attachments/assets/1b3ac00d-299a-4897-8de7-cad5e072beb1" alt="Screenshot 5" width="200"/>
+  <img src="https://github.com/user-attachments/assets/9a104390-12d1-48bd-8d00-dc887395999a" alt="Screenshot 7" width="200"/>
 </p>
