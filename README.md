@@ -46,9 +46,9 @@ All user activity is synced with Firebase for persistence.
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/857478e5-4ee3-477e-b839-791686d6e23e" width="180"/>
-  <img src="https://github.com/user-attachments/assets/bd275800-ef3c-402c-9321-8067368e6c96" width="180"/>
-  <img src="https://github.com/user-attachments/assets/0f09e1b9-a0d8-41ec-b4f5-a57b0203e5f2" width="180"/>
+  <img src="https://github.com/user-attachments/assets/857478e5-4ee3-477e-b839-791686d6e23e" width="400"/>
+  <img src="https://github.com/user-attachments/assets/bd275800-ef3c-402c-9321-8067368e6c96" width="400"/>
+  <img src="https://github.com/user-attachments/assets/0f09e1b9-a0d8-41ec-b4f5-a57b0203e5f2" width="400"/>
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/25bda17a-8538-46e6-80ea-55b3567a9c68" width="180"/>
