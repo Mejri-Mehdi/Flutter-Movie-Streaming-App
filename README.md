@@ -54,18 +54,20 @@
   <strong>Tap to zoom — the UI is even smoother in person!</strong>
 </p>
 
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/857478e5-4ee3-477e-b839-791686d6e23e" alt="Home screen" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/bd275800-ef3c-402c-9321-8067368e6c96" alt="Movie details" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/0f09e1b9-a0d8-41ec-b4f5-a57b0203e5f2" alt="Search" width="200"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/25bda17a-8538-46e6-80ea-55b3567a9c68" alt="Favorites" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/1b3ac00d-299a-4897-8de7-cad5e072beb1" alt="Player" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/9a104390-12d1-48bd-8d00-dc887395999a" alt="Profile" width="200"/></td>
-  </tr>
-</table>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center"><img src="https://github.com/user-attachments/assets/857478e5-4ee3-477e-b839-791686d6e23e" alt="Home screen" width="200"/></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/bd275800-ef3c-402c-9321-8067368e6c96" alt="Movie details" width="200"/></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/0f09e1b9-a0d8-41ec-b4f5-a57b0203e5f2" alt="Search" width="200"/></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://github.com/user-attachments/assets/25bda17a-8538-46e6-80ea-55b3567a9c68" alt="Favorites" width="200"/></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/1b3ac00d-299a-4897-8de7-cad5e072beb1" alt="Player" width="200"/></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/9a104390-12d1-48bd-8d00-dc887395999a" alt="Profile" width="200"/></td>
+    </tr>
+  </table>
+</p>
 
 ---
 
